@@ -12,7 +12,7 @@ DESIGNED & DEVELOPED by https://github.com/jayaraj-kannan
 
 updated all configuration with comments in index.html file, you can find each configuration there.
 
-let me know want to develop custom digital invite response 
+let me know if you need any help to configure or want to develop custom digital invite response 
 
 # Contact :
 
