@@ -10,7 +10,7 @@ DESIGNED & DEVELOPED by https://github.com/jayaraj-kannan
 
 # Steps to configure Degital Wedding Site: 
 
-updated all configuration with comments ,you find each configuration 
+updated all configuration with comments in index.html file, you can find each configuration there.
 
 let me know want to develop custom digital invite response 
 
